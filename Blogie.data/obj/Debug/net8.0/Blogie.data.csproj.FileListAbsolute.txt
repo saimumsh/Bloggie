@@ -1,0 +1,36 @@
+D:\Project job\Study C#\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.deps.json
+D:\Project job\Study C#\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.runtimeconfig.json
+D:\Project job\Study C#\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.dll
+D:\Project job\Study C#\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.pdb
+D:\Project job\Study C#\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.core.dll
+D:\Project job\Study C#\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.core.pdb
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.csproj.AssemblyReference.cache
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.AssemblyInfoInputs.cache
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.AssemblyInfo.cs
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.csproj.CoreCompileInputs.cache
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.sourcelink.json
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.csproj.CopyComplete
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.dll
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\refint\Blogie.data.dll
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.pdb
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.genruntimeconfig.cache
+D:\Project job\Study C#\Blogie\Blogie.data\obj\Debug\net8.0\ref\Blogie.data.dll
+D:\Dotnet Projects\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.deps.json
+D:\Dotnet Projects\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.runtimeconfig.json
+D:\Dotnet Projects\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.dll
+D:\Dotnet Projects\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.data.pdb
+D:\Dotnet Projects\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.core.dll
+D:\Dotnet Projects\Blogie\Blogie.data\bin\Debug\net8.0\Blogie.core.pdb
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.csproj.AssemblyReference.cache
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.AssemblyInfoInputs.cache
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.AssemblyInfo.cs
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.sourcelink.json
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.csproj.CopyComplete
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.dll
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\refint\Blogie.data.dll
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.pdb
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\Blogie.data.genruntimeconfig.cache
+D:\Dotnet Projects\Blogie\Blogie.data\obj\Debug\net8.0\ref\Blogie.data.dll

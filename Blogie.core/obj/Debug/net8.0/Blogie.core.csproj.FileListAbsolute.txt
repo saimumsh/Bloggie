@@ -1,0 +1,30 @@
+D:\Project job\Study C#\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.deps.json
+D:\Project job\Study C#\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.runtimeconfig.json
+D:\Project job\Study C#\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.dll
+D:\Project job\Study C#\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.pdb
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.csproj.AssemblyReference.cache
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.AssemblyInfoInputs.cache
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.AssemblyInfo.cs
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.csproj.CoreCompileInputs.cache
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.sourcelink.json
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.dll
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\refint\Blogie.core.dll
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.pdb
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.genruntimeconfig.cache
+D:\Project job\Study C#\Blogie\Blogie.core\obj\Debug\net8.0\ref\Blogie.core.dll
+D:\Dotnet Projects\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.deps.json
+D:\Dotnet Projects\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.runtimeconfig.json
+D:\Dotnet Projects\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.dll
+D:\Dotnet Projects\Blogie\Blogie.core\bin\Debug\net8.0\Blogie.core.pdb
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.csproj.AssemblyReference.cache
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.AssemblyInfoInputs.cache
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.AssemblyInfo.cs
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.sourcelink.json
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.dll
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\refint\Blogie.core.dll
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.pdb
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\Blogie.core.genruntimeconfig.cache
+D:\Dotnet Projects\Blogie\Blogie.core\obj\Debug\net8.0\ref\Blogie.core.dll

@@ -1,0 +1,31 @@
+﻿@model Blogie.core.BlogInfo.BlogData 
+<div>
+    <h1>Delete Your Blog</h1>
+</div>
+<hr />
+<div>
+    <form method="post">
+       
+        <div class="form-group">
+            <label for="thumnail">Thumnail</label>
+            <input asp-for="Thumnail" type="text" class="form-control" id="thumnail" />
+        </div>
+        <div class="form-group">
+            <label for="blogtitle">Title</label>
+            <input asp-for="Title" type="text" class="form-control" id="blogtitle" placeholder="Title" />
+        </div>
+        <div class="form-group">
+            <label for="summary">Summary of Your Blog</label>
+            <textarea asp-for="Summary" class="form-control" id="summery" rows="2"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="details">Details of Your Blog</label>
+            <textarea asp-for="Details" class="form-control" id="details" rows="5"></textarea>
+        </div>
+        <div class="form-group mt-4">
+            <button class="btn btn-danger">Confirm</button>
+            <a asp-controller="Bloggie" asp-action="Index" class="btn btn-outline-secondary">Back to Home</a>
+        </div>
+
+    </form>
+</div>

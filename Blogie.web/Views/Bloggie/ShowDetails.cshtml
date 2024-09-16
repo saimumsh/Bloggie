@@ -1,0 +1,16 @@
+﻿@model Blogie.core.BlogInfo.BlogData
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<div class="card-group m-4">
+    <div class="card mb-3">
+        <img class="card-img-top" style="height:25rem" src="@Url.Content("~/"+ Model.Thumnail)" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <p class="card-text">@Model.Details</p>
+            <p class="card-text"><small class="text-muted">Written by</small></p>
+        </div>
+    <div class="card-footer m-4">
+        <a asp-controller="Bloggie" asp-action="Index">Back To Blog</a>
+    </div>
+    </div>
+</div>
